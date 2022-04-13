@@ -1,0 +1,24 @@
+h1{
+    background-color: orange;
+}
+img{
+    width: 500px;
+}
+table{
+    border: 10px ridge #bedead;
+}
+p{
+    border: 10px solid tomato;
+    background-color: lightpink;
+    border-radius: 5px;
+}
+ul{
+    background-color: lightgoldenrodyellow;
+}
+ul li{
+    color: darkred;
+}
+div{
+    background-color: lightgoldenrodyellow;
+    border: 10px solid black;
+}

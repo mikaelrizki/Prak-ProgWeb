@@ -1,0 +1,78 @@
+    html{
+    background-color: rgb(248, 248, 248);
+    }
+    header{
+        text-align: center;
+    }
+    h1{
+        font-family: 'Courier New', Courier, monospace;
+    
+    }
+    a{
+        color: rgb(0, 185, 176);
+        text-decoration: none;
+    }
+    h2{
+        font-weight: lighter;
+        text-align: center;
+    }
+    h2 #abuGelapTebal {
+        color: rgb(65, 70, 155);
+        font-style: italic;
+        font-weight: bold;
+    }
+    
+    h2 #tebal {
+        color: black;
+        font-style: italic;
+        font-weight: bold;
+    }
+    
+    
+    blockquote{
+        text-align: center;
+        text-transform: uppercase;
+    }
+    
+    h3 {
+        text-align: center;
+        text-decoration: underline;
+    
+        font-weight: lighter;
+    }
+    
+    table, tr, th, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+    }
+    tr:nth-child(even){
+        background-color: rgb(0, 255, 255);
+    }
+    tr:nth-child(odd){
+        background-color: rgb(255, 228, 196);
+    }
+    img{
+        width: 100%;
+    }
+    table tbody td:first-child{
+        width: 70%;
+    }
+    div .rataKiri {
+        text-align: left;
+    }
+    
+    ol{
+        list-style-type: lower-roman;
+        color: rgb(180, 0, 0);
+        font-style: italic;
+    }
+    li{
+        margin: 10px;
+    }
+    footer{
+        text-align: center;
+    }
+    h3{
+        text-decoration: underline;
+    }

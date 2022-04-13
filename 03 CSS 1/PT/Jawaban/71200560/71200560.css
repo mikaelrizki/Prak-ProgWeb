@@ -1,0 +1,64 @@
+html{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 a{
+    color: black;
+    text-decoration: none;
+}
+hr{
+    border: 1px solid rgb(49, 42, 42);
+    background-color: white;
+    height: 5px;
+    border-radius: 5px;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+    text-align: left;
+    letter-spacing: 1px;
+}
+#i{
+    font-style: italic;
+}
+#b{
+    font-weight: bold;
+    color: orangered;
+}
+#u{
+    text-decoration: underline;
+    color: white;
+}
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td:first-child{
+    width: 5%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+td:last-child{
+    text-align: right;
+}
+tr:nth-child(odd){
+    background-color: burlywood;
+}
+tr:nth-child(even){
+    background-color: beige;
+}
+img{
+    width: 500px;
+    height: 450px;
+}
+.step{
+    color: red;
+    font-weight: bold;
+}
+.list-step{
+    list-style: decimal;
+}
