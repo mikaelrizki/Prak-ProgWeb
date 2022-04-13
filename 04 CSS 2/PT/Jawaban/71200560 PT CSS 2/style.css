@@ -1,0 +1,97 @@
+body{
+    background-image: url(background.jpeg);
+    width: 50%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: white;
+    padding: 20px;
+    border: 3px;
+    border-style: dashed;
+    border-color:  rgb(107, 185, 107);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+header h1{
+    color: rgb(107, 185, 107);
+    letter-spacing: 1.5px;
+    padding-left: 20px;
+}
+
+h1 span{
+    color: #000;
+    font-size: 12pt;
+    font-weight: 600;
+    letter-spacing: normal;
+}
+
+div{
+    width: 100%;
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color:  rgb(107, 185, 107);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+div img{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.tentangKami{
+    background-color: white;
+    border: 3px;
+    border-style: dotted;
+    border-color:  rgb(107, 185, 107);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-indent: 50px;
+    padding-bottom: 40px;
+}
+
+.tentangKami h1{
+    color: rgb(107, 185, 107);
+    text-indent: 0px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.tentangKami p{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.level1{
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color:  rgb(107, 185, 107);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.level1 p span{
+    background-color: rgb(107, 185, 107);
+    color: white;
+}
+
+.level1 p a{
+    color: rgb(107, 185, 107);
+    text-decoration: none;
+}
