@@ -1,0 +1,15 @@
+body{margin: 0; background-color: lightyellow; width: 1400px; margin: auto;}
+body h1{text-align: center; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+body h1 img{width: 250px;}
+
+#openhours{color: darkorange; text-align: center; font-weight: bold; font-size: 18pt; text-decoration: underline; margin: 30px;}
+
+.imgmov{clear: left; float: left; margin: 0px 35px;}
+.imgmov img{width: 200px;}
+.info{margin: 0 30px; float: right; background-color: orange; padding: 20px 10px; color: lightyellow;}
+.info tr{height: 40px;}
+.info tr td:first-child{text-align: right; font-family: Arial, Helvetica, sans-serif; font-weight: bold;}
+.info tr td:last-child{font-family: Arial, Helvetica, sans-serif; font-style: italic;}
+.desc p{text-align: justify; padding-bottom: 100px; width: 1040px;}
+.desc p span{font-weight: bold;}
+body h1:last-child{clear: both;}
