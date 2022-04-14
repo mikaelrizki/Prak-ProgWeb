@@ -1,0 +1,70 @@
+body{
+    margin: 0px; 
+    background-color: lightgray;
+}
+header{
+    background-color: rgb(155, 155, 155); 
+    height: 100px;
+}
+#logoWeb{
+    width: 100px; 
+    float: left; 
+    margin-left: 40px;
+}
+.headerArea{
+    font-weight: bold; 
+    font-size: 40px; 
+    text-align: center; 
+    padding-top: 30px;
+}
+#logoProfil{
+    width: 40px; 
+    float: right; 
+    margin-right: 40px;
+    margin-left: 40px;
+}
+main{
+    display: grid; 
+    grid-template-columns: 25% 75%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+aside{
+    height: 400px;
+    text-align: justify; 
+    margin-left: 20px;
+    padding: 0px 20px 20px 20px;
+    overflow: auto; 
+}
+article{
+    margin: 0px 20px 20px 20px;
+}
+#nasiGorengGambar{
+    float: left;
+    margin-right: 20px;
+}
+.section2 h3{
+    clear: left;
+    margin-top: 60px;
+}
+p{
+    text-align: justify; 
+    margin-right: 20px;
+}
+.section2 img{
+    width: 250px;
+    height: 150px;
+    margin: 5px;;
+}
+footer{
+    clear: left; 
+    height: 60px; 
+    background-color: rgb(155, 155, 155); 
+}
+#footerText{
+    position: relative;
+    padding-top: 20px;
+    text-align: center; 
+    font-weight: bold;
+    font-size: 20px;
+}
