@@ -1,0 +1,38 @@
+body {
+    background-image: url(images/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 28pt;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: tomato;
+}
+
+a:hover {
+    color: rgb(223, 152, 139);
+}
+
+table {
+    background-color: bisque;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
